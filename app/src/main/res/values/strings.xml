@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="form_title">Formulário de Login</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="forgot">Recuperar Senha</string>
+    <string name="terms_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel tellus et lorem sodales placerat. Nunc aliquet quam vel enim sagittis, rutrum maximus magna dapibus. In gravida eu velit eget pretium. Aliquam dignissim dolor arcu, pellentesque sodales lectus hendrerit vitae. Nulla tempus purus ut sem sagittis, vitae laoreet arcu porta. In nec erat est. Aliquam quis tempus nisi. Ut fermentum sodales dapibus. Mauris nec arcu pretium, lacinia nulla non, cursus tortor. Pellentesque convallis sollicitudin est ac feugiat. Praesent scelerisque, turpis ut eleifend faucibus, leo nisl tempor dolor, a mollis est ipsum eu metus. Aliquam erat volutpat. Proin elementum arcu eget enim blandit vulputate. Nullam varius, ligula ac lobortis malesuada, neque massa porta turpis, in commodo magna velit nec est. Fusce nec cursus felis, et finibus sem. Donec quis dolor nulla. In sodales metus ut eros aliquam, sit amet faucibus ipsum scelerisque. Donec eu tellus iaculis, dapibus est sit amet, pretium magna. Nunc sit amet congue risus. Curabitur ut est placerat, mattis urna eget, porta leo.</string>
+    <string name="checkbox">Você concorda com os termos</string>
+    <string name="user_name">Nome de usuário</string>
+    <string name="category">Categoria</string>
+    <string name="buy">Comprar</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel tellus et lorem sodales placerat.</string>
+    <string name="share">Share</string>
+    <string name="cart">Carrinho</string>
+    <string name="chat">Chat</string>
+</resources>
