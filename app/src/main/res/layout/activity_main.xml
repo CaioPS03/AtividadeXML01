@@ -43,6 +43,8 @@
         android:paddingLeft="10dp"
         android:hint="@string/user"
         android:backgroundTint="@color/t_pallet4"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
         />
 
     <EditText
@@ -56,6 +58,8 @@
         android:paddingLeft="10dp"
         android:hint="@string/password"
         android:backgroundTint="@color/t_pallet4"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
         />
 
     <Button
@@ -100,6 +104,7 @@
         android:layout_height="130dp"
         android:layout_below="@id/forgot_password"
         android:layout_marginVertical="40dp"
+        android:layout_marginHorizontal="20dp"
         android:background="@color/t_pallet5">
 
         <LinearLayout
